@@ -42,3 +42,9 @@ urllib3==2.8.0
 uvicorn==0.54.0
 watchdog==6.0.0
 websockets==17.4
+streamlit
+groq
+langchain
+langchain-groq
+langgraph
+python-dotenv
